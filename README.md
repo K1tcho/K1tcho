@@ -15,18 +15,18 @@ I spend a lot of my time thinking about system flow and clean code. I believe th
 
 ### 🚀 What I’ve Been Building
 
-#### ⛓️ [Blockchain with Java](https://github.com/yourusername/repo-link](https://github.com/K1tcho/Blockchain-with-Java) (ongoing project)
-Instead of just using a library, I built a basic blockchain to understand decentralization.
+#### ⛓️ [Blockchain with Java](https://github.com/K1tcho/Blockchain-with-Java) (Ongoing)
+Instead of just using a library, I built a basic blockchain from scratch to understand decentralization.
 * **The Challenge:** Implementing multithreaded mining and ensuring hash integrity without a UI to hide behind.
 * **Focus:** State consistency and core logic.
 
-#### ☁️ [Serverless Portfolio](https://github.com/yourusername/repo-link](https://github.com/K1tcho/Hangman) (AWS)
-A deep dive into the "Cloud" by actually living in it.
+#### ☁️ [Serverless Portfolio](https://github.com/K1tcho/portfolio-site) (AWS)
+A deep dive into the "Cloud" by actually living in it. 
 * **The Setup:** Leveraged AWS serverless architecture to handle deployment and routing.
 * **Focus:** Understanding the bridge between a local frontend and global infrastructure.
 
-#### 🎮 [Logic-First Hangman](https://github.com/yourusername/repo-link)](https://github.com/K1tcho/portfolio-site) (Kotlin)
-A phone-based project where I sharpened my state-management skills. No flashy graphics—just solid control flow.
+#### 🎮 [Logic-First Hangman](https://github.com/K1tcho/Hangman) (Kotlin)
+A mobile-based project where I sharpened my state-management skills. No flashy graphics—just solid control flow.
 
 ---
 
@@ -48,11 +48,6 @@ I’m currently pivoting toward **AI + Data-focused systems**. I want to build b
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shubham-ojha-k1tcho/) | [Email](mailto:shubhamojha2103@gmail.com)
+
+[LinkedIn](YOUR_LINK_HERE) | [Email](mailto:your-email@example.com)
