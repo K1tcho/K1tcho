@@ -1,64 +1,58 @@
-# Hi, I'm Shubham 👋
+# 🛠️ Hi, I'm Shubham
 
-🎓 Computer Science student
-💻 Interested in **AI, Backend Systems, and Cloud Engineering**
-🚀 Currently applying for **JetBrains Internship Projects (Summer/Fall 2026)**
+**I’m a Computer Science student who likes to take things apart to see how they tick.** I’m currently focused on the "invisible" side of tech: **Backend Systems, Cloud Architecture, and AI.** My goal isn't just to make things work—it's to understand *why* they work that way.
 
 ---
 
-## 🔧 What I'm working on right now
+### 🧠 The "Internal Logic" Focus
 
-* 🧠 Implementing **Word2Vec from scratch (NumPy)**
-* ⚙️ Building **data quality validation pipelines**
-* ☁️ Learning **Docker + backend deployment**
+I spend a lot of my time thinking about system flow and clean code. I believe that a project is only as good as the architecture behind it.
 
----
-
-## 🧠 Featured Projects
-
-### 🔹 Word2Vec (NumPy Implementation)
-
-* Built from scratch without ML frameworks
-* Includes forward pass, loss, gradients, and optimization
-* Focus on understanding core ML concepts
-
-### 🔹 Data Quality Checker
-
-* Validates datasets for missing values, anomalies, and consistency
-* Designed for scalable backend usage
-
-### 🔹 Cloud File API
-
-* REST API with authentication
-* Dockerized and ready for cloud deployment
-
-### 🔹 Android Notes App
-
-* Kotlin-based app with clean architecture
-* Offline storage + modern UI
+* **Current Deep Dives:** Mastering **Docker** 🐳, digging into **ML fundamentals** 🤖, and writing code that my "future self" won't hate.
+* **Philosophy:** Focus on building real skills and depth, not just checking boxes on a tutorial.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 What I’ve Been Building
 
-* **Languages:** Python, Java, Kotlin
-* **Tools:** Docker, Git, Linux
-* **Concepts:** Machine Learning, Backend Development, APIs
+#### ⛓️ [Blockchain with Java](https://github.com/yourusername/repo-link](https://github.com/K1tcho/Blockchain-with-Java) (ongoing project)
+Instead of just using a library, I built a basic blockchain to understand decentralization.
+* **The Challenge:** Implementing multithreaded mining and ensuring hash integrity without a UI to hide behind.
+* **Focus:** State consistency and core logic.
 
----
+#### ☁️ [Serverless Portfolio](https://github.com/yourusername/repo-link](https://github.com/K1tcho/Hangman) (AWS)
+A deep dive into the "Cloud" by actually living in it.
+* **The Setup:** Leveraged AWS serverless architecture to handle deployment and routing.
+* **Focus:** Understanding the bridge between a local frontend and global infrastructure.
 
-## 🎯 What I'm aiming for
-
-* Build strong fundamentals in **AI systems & backend engineering**
-* Contribute to real-world scalable systems
-* Grow into a **software engineer with deep system understanding**
-
----
-
-## 📈 Current Focus
-
-Improving consistency, building real projects, and preparing for internship-level engineering work.
+#### 🎮 [Logic-First Hangman](https://github.com/yourusername/repo-link)](https://github.com/K1tcho/portfolio-site) (Kotlin)
+A phone-based project where I sharpened my state-management skills. No flashy graphics—just solid control flow.
 
 ---
 
-⭐ *Always open to learning and building impactful systems*
+### 🛠️ My Toolbox
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Java, Kotlin, Python, SQL |
+| **Cloud** | AWS (Deployment & Serverless), GCP (Basics) |
+| **Dev Tools** | Git, Linux, Docker (Learning) |
+
+---
+
+### 📈 Current Direction
+
+I’m currently pivoting toward **AI + Data-focused systems**. I want to build backends that don't just store data, but actually make sense of it.
+
+> "I’m focused on building real skills, not just completing projects."
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/shubham-ojha-k1tcho/) | [Email](mailto:shubhamojha2103@gmail.com)
